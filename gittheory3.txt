@@ -1,0 +1,4 @@
+Git Creator
+● Created by Linus Torvalds, creator of Linux, in 2005
+– Came out of Linux development community
+– Designed to do version control on Linux kernel,
