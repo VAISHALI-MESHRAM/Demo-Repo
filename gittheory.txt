@@ -1,0 +1,4 @@
+What is Git ?
+● Git is a distributed version control system
+● Git is a Tree History storage system
+● Git is content tracking management system
